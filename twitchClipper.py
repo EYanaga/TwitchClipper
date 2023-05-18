@@ -13,8 +13,8 @@ import datetime
 import subprocess
 #from moviepy.editor import *
 
-APP_ID = 'tfimxp7nt935qeewowu2x0ujc8jw0n'
-APP_SECRET = 'r1qt38j23pqrkbs0ris30zb2nxxa6i'
+APP_ID = 'appid'
+APP_SECRET = 'appsecret'
 
 twitch = Twitch(APP_ID, APP_SECRET)
 #twitch.authenticate_app([])
